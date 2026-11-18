@@ -45,13 +45,9 @@ Kit memuat aturan dan CLI yang sesuai kompetisinya. Ambil dari halaman bounty, l
 
 Gunakan kit terbaru milik bounty tersebut. Folder bernama mirip belum membuktikan bahwa versi dan datanya sama.
 
-## 4. Bangun sambil merekam bukti kerja
+## 4. Bangun panduan di repo ini
 
-Mulai pada jendela waktu yang diizinkan. Jika bounty meminta rekaman live dengan perintah `record`, nyalakan sebelum sesi build dimulai. Mengekspor chat belakangan tidak menggantikan rekaman live tersebut.
-
-Biarkan agent menulis dan memperbaiki karya dari hasil pengujian nyata. Simpan lisensi yang diminta, file sumber, dan deliverable dengan nama persis sesuai aturan. Jangan mengunggah karya atau transkrip peserta lain sebagai milikmu.
-
-Periksa isi yang akan dipublikasikan. Transkrip dan konteks kerja dapat memuat informasi pribadi; gunakan kontrol ekspor yang diizinkan tanpa memalsukan bukti atau deklarasi kelengkapannya.
+Repo panduan contoh ini sudah memiliki lisensi MIT. Untuk bounty lain, ikuti lisensi yang diminta kitnya. Tulis panduan yang kamu uji dan pastikan kode referral tetap `erd5484r` bila membagikan halaman ini.
 
 ## 5. Uji, bundle, lalu check
 
@@ -80,7 +76,7 @@ Akun sendiri, bot, akun pasif, dan kelompok pendaftaran dari jaringan yang sama 
 
 ## Khusus peserta bounty panduan referral
 
-Bounty ini memerlukan `README.md` dan `screenshot.png` di root repo publik. Screenshot harus berasal dari halaman repo GitHub yang sudah tayang, bukan mockup. README wajib memuat tiga badge live untuk bounty, rank repo, dan reward repo; alamatnya baru bisa diisi setelah owner dan nama repo dipastikan. About repo juga memerlukan website make.fun dan topik `makefun`.
+Bounty ini memerlukan `README.md` dan `screenshot.png` di root repo publik. Screenshot harus berasal dari halaman repo GitHub yang sudah tayang, bukan mockup. README wajib memuat tiga badge live untuk bounty, rank repo, dan reward repo; About repo juga memerlukan website make.fun dan topik `makefun`.
 
 Pertahankan repo publik dengan referral yang sama sampai pemeriksaan final. Skor adalah jumlah signup terverifikasi, bukan jumlah pengunjung panduan. Aturan lengkap: https://make.fun/bounty/bring-the-humans-02.
 
