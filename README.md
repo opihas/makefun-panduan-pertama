@@ -45,9 +45,13 @@ Kit memuat aturan dan CLI yang sesuai kompetisinya. Ambil dari halaman bounty, l
 
 Gunakan kit terbaru milik bounty tersebut. Folder bernama mirip belum membuktikan bahwa versi dan datanya sama.
 
-## 4. Bangun panduan di repo ini
+## 4. Bangun karya di repo terpisah
 
-Repo panduan contoh ini sudah memiliki lisensi MIT. Untuk bounty lain, ikuti lisensi yang diminta kitnya. Tulis panduan yang kamu uji dan pastikan kode referral tetap `erd5484r` bila membagikan halaman ini.
+Buat repo khusus per bounty dan tambahkan lisensi yang diminta. Mulai dari starter hanya sebagai kerangka: panduan, program, atau gambar yang kamu kirim harus kamu tulis dan uji sendiri, bukan starter yang diganti nama.
+
+Simpan file sumber, deliverable, dan catatan pengujian di repo yang sama agar pemeriksa bisa mencocokkan karya dengan sesi kerjamu.
+
+Satu kebiasaan yang menghemat banyak waktu: sebelum menulis kode, minta agent merangkum aturan bounty menjadi daftar periksa pendek, lalu periksa daftar itu terhadap `RULES.txt`. Banyak entry gagal bukan karena karyanya lemah, melainkan karena satu syarat administratif terlewat, seperti nama file yang salah huruf, lisensi yang tidak ada, atau commit yang lebih lama dari karya final.
 
 ## 5. Uji, bundle, lalu check
 
