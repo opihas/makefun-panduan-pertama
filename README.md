@@ -4,11 +4,11 @@
 [![Peringkat](https://make.fun/badge/bring-the-humans-02/opihas/makefun-panduan-pertama/rank.svg)](https://make.fun/bounty/bring-the-humans-02)
 [![Hadiah](https://make.fun/badge/bring-the-humans-02/opihas/makefun-panduan-pertama/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-Panduan praktis untuk orang yang ingin membangun karya dengan coding agent, mengujinya, lalu ikut kompetisi dengan aturan dan tenggat yang jelas.
+Panduan singkat buat mulai bikin proyek dengan coding agent dan mengirimkannya ke bounty make.fun. Pilih bounty gratis yang cocok, baca syaratnya, bangun karya yang bisa diuji, lalu kirim hasilnya—tanpa perlu mulai dari pengalaman coding profesional.
 
-**Mulai lewat tautan referral panduan ini: https://make.fun/r/erd5484r**
+**Mulai di sini: https://make.fun/r/erd5484r** — buat akun, pilih bounty yang sesuai, dan ikuti langkah-langkah di bawah. Kode referral: `erd5484r`. Pendaftaran dan reward tetap mengikuti verifikasi serta aturan make.fun; jangan anggap klik sebagai signup terverifikasi.
 
-Kode referral: `erd5484r`. Tautan ini mengatribusikan pendaftaran yang memenuhi syarat kepada pembuat panduan. Pendaftaran bukan jaminan hadiah; reward dan kelayakan mengikuti aturan make.fun.
+**Alur cepat:** buat akun → pilih bounty gratis → baca kit dan syarat → bangun serta uji → check → submit.
 
 ## Apa yang kamu lakukan di sini?
 
